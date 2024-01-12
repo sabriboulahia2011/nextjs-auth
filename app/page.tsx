@@ -28,7 +28,7 @@ export default async function SignInPage() {
         <span className="text-2xl font-semibold text-white text-center mt-8">
           Or
         </span>
-        {/* <CredentialsSignInButton /> */}
+        {/*<CredentialsSignInButton />*/}
         <CredentialsForm />
       </div>
     </div>
