@@ -1,3 +1,4 @@
+/* eslint-disable react-hooks/rules-of-hooks */
 import { NextAuthOptions, User, getServerSession } from "next-auth";
 import { useSession } from "next-auth/react";
 import { redirect, useRouter } from "next/navigation";
